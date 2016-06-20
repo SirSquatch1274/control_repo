@@ -14,3 +14,7 @@ mod "puppetlabs/stdlib"
 mod "puppetlabs/vcsrepo"
 mod "saz/resolv_conf"
 mod "zack/r10k"
+
+mod 'ssh',
+	:git => https://github.com/SirSquatch1274/ssh.git',
+	:ref => 'development'
