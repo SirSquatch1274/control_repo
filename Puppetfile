@@ -18,3 +18,7 @@ mod "zack/r10k"
 mod 'ssh',
 	:git => 'https://github.com/cvquesty/ssh.git',
 	:ref => 'development'
+
+mod 'nano',
+	:git => 'https://github.com/SirSquatch1274/nano.git',
+	:ref => 'development'
