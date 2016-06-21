@@ -16,5 +16,5 @@ mod "saz/resolv_conf"
 mod "zack/r10k"
 
 mod 'ssh',
-	:git => 'https://github.com/SirSquatch1274/ssh.git',
+	:git => 'https://github.com/cvquesty/ssh.git',
 	:ref => 'development'
