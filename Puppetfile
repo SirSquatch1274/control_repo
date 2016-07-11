@@ -23,3 +23,7 @@ mod 'ssh',
 mod 'nano',
 	:git => 'https://github.com/SirSquatch1274/nano.git',
 	:ref => 'development'
+
+mod 'yum',
+	:git => 'https://github.com/SirSquatch1274/yum.git',
+	:ref => 'development'
